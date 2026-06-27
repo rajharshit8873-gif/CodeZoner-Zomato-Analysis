@@ -110,7 +110,17 @@ CodeZoner-Zomato-Analysis
 - Restaurant Recommendation System
 - Deployment using Streamlit Cloud
 
----
+## Dataset
+
+The dataset is not included in this repository because it exceeds GitHub's file size limit (100 MB).
+
+Download the dataset from Kaggle:
+
+https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
+
+After downloading, place the file here:
+
+data/zomato.csv
 
 ## 👨‍💻 Author
 
